@@ -1,5 +1,15 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Ignore Visual Studio-specific files
+.vs/
+*.suo
+*.user
 
-/.vs
+# Ignore build outputs
+./DotnetPgSQL.Application/bin
+./DotnetPgSQL.Domain/bin
+./DotnetPgSQL.Infrastructure/bin
+
+./DotnetPgSQL.Application/obj
+./DotnetPgSQL.Domain/obj
+./DotnetPgSQL.Infrastructure/obj
+/DotnetPgSQL.Web/bin/Debug/net8.0
+/DotnetPgSQL.Web/obj
