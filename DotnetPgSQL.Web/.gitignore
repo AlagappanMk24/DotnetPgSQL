@@ -1,0 +1,8 @@
+﻿# Ignore Visual Studio-specific files
+.vs/
+*.suo
+*.user
+
+# Ignore build outputs
+bin/
+obj/

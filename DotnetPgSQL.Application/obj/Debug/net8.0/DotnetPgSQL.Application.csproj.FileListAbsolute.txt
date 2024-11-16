@@ -1,0 +1,16 @@
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\bin\Debug\net8.0\DotnetPgSQL.Application.deps.json
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\bin\Debug\net8.0\DotnetPgSQL.Application.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\bin\Debug\net8.0\DotnetPgSQL.Application.pdb
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\bin\Debug\net8.0\DotnetPgSQL.Domain.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\bin\Debug\net8.0\DotnetPgSQL.Domain.pdb
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.csproj.AssemblyReference.cache
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.AssemblyInfoInputs.cache
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.AssemblyInfo.cs
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.csproj.CoreCompileInputs.cache
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.sourcelink.json
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPg.1BEBB6EB.Up2Date
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\refint\DotnetPgSQL.Application.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\DotnetPgSQL.Application.pdb
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Application\obj\Debug\net8.0\ref\DotnetPgSQL.Application.dll

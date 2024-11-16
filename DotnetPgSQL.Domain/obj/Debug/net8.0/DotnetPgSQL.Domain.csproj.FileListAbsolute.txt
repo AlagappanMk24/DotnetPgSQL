@@ -1,0 +1,12 @@
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\bin\Debug\net8.0\DotnetPgSQL.Domain.deps.json
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\bin\Debug\net8.0\DotnetPgSQL.Domain.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\bin\Debug\net8.0\DotnetPgSQL.Domain.pdb
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.AssemblyInfoInputs.cache
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.AssemblyInfo.cs
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.csproj.CoreCompileInputs.cache
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.sourcelink.json
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\refint\DotnetPgSQL.Domain.dll
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\DotnetPgSQL.Domain.pdb
+D:\Alagappan\Learning\GitHubProjects\DotnetPgSQL\DotnetPgSQL.Domain\obj\Debug\net8.0\ref\DotnetPgSQL.Domain.dll
